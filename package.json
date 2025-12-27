@@ -1,6 +1,6 @@
 {
   "name": "@bardsballad/cadence",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Cadence: a safe, deterministic expression engine for user-generated content.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
